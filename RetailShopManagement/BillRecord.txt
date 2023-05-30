@@ -1,0 +1,21 @@
+
+                                 Aquarius Aquarium Shop Management System 
+____________________________________________
+Customer name : Alif
+
+Mobile number :432434354
+
+================================================
+Id     Product name      Unit        Per unit price     Total price 
+103      FISH3                        2             100              200
+105      FISH5                        1             255              255
+203      Airpump                        5             990              4950
+
+___________________________________________________________
+                                                                               Total : 5405.0
+ 
+                                                                       Vat(5%)  :270.25
+
+========================================================
+                                                                    Grand Total : 5675.25
+

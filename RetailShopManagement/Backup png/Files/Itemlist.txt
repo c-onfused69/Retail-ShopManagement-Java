@@ -1,0 +1,13 @@
+
+101 Chochlet 30 100
+102 Biscuit 50 150
+103 Layschip 70 50
+104 Soap 35 50
+105 Chips 10 50
+201 Cake 320 20
+201 Cake 320 20
+202 Juice 240 20
+203 Cocacola 60 20
+204 Rice 60 200
+205 Wheat 60 200
+301 HandWash 36 40

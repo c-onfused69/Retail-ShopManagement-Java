@@ -1,0 +1,6 @@
+Imtiaz Manager 20000 20/05/2020
+Nahijul Cashier 15000 21/05/2020
+Peal Salesman 10000 21/05/2020
+Mofiz Salesman 10000 21/05/2020
+Jalal Cleaner 10000 11/06/2020
+Ahmed Salesman 10000 12/06/2021
