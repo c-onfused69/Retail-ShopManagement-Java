@@ -38,7 +38,8 @@ The Retail Shop Management System is a Java-based application designed to facili
 4. Process sales transactions by selecting items, specifying quantities, and generating invoices for customers
 
 ## Screenshots
-<img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Startup%20page.png?raw=true">
+
+<img align="center" width="500" src="[https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Startup%20page.png?raw=true](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Startup%20page.png)">
 -Starting Page
 
 <img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Admin%20Login.png?raw=true">
