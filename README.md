@@ -43,29 +43,37 @@ The Retail Shop Management System is a Java-based application designed to facili
 [![Retail-ShopManagement-Java](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Startup%20page.png)](https://github.com/c-onfused69/Retail-ShopManagement-Java)
 
 
-<img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Admin%20Login.png?raw=true">
--Admin Login Page
+#### Admin Login Page
+[![Retail-ShopManagement-Java](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Admin%20Login.png)](https://github.com/c-onfused69/Retail-ShopManagement-Java)
 
-<img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Admin%20page.png?raw=true">
--Track Record Page
 
-<img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Item%20list%20page.png?raw=true">
--Inventory Manage Page
+#### Track Record Page
+[![Retail-ShopManagement-Java](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Admin%20page.png)](https://github.com/c-onfused69/Retail-ShopManagement-Java)
 
-<img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Employee%20list%20page.png?raw=true">
--Employee Manage Page
 
-<img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Bill%20Record.png?raw=true">
--Bill Record Page
+#### Inventory Manage Page
+[![Retail-ShopManagement-Java](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Item%20list%20page.png)](https://github.com/c-onfused69/Retail-ShopManagement-Java)
 
-<img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Cart%20page.png?raw=true">
--Cart Page
 
-<img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Add%20to%20cart%20page.png?raw=true">
--Add to cart
+#### Employee Manage Page
+[![Retail-ShopManagement-Java](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Employee%20list%20page.png)](https://github.com/c-onfused69/Retail-ShopManagement-Java)
 
-<img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Bill%20page.png?raw=true">
--Print Bill Page
 
-<img align="center" width="500" src="https://github.com/c-onfused69/Retail-ShopManagement-Java/blob/main/Screenshots/Print%20Bill.png?raw=true">
--Bill Print Process
+#### Bill Record Page
+[![Retail-ShopManagement-Java](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Bill%20Record.png)](https://github.com/c-onfused69/Retail-ShopManagement-Java)
+
+
+#### Cart Page
+[![Retail-ShopManagement-Java](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Cart%20page.png)](https://github.com/c-onfused69/Retail-ShopManagement-Java)
+
+
+#### Add to cart
+[![Retail-ShopManagement-Java](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Add%20to%20cart%20page.png)](https://github.com/c-onfused69/Retail-ShopManagement-Java)
+
+
+#### Print Bill Page
+[![Retail-ShopManagement-Java](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Bill%20page.png)](https://github.com/c-onfused69/Retail-ShopManagement-Java)
+
+
+#### Bill Print Process
+[![Retail-ShopManagement-Java](https://raw.githubusercontent.com/c-onfused69/Retail-ShopManagement-Java/main/Screenshots/Print%20Bill.png)](https://github.com/c-onfused69/Retail-ShopManagement-Java)
